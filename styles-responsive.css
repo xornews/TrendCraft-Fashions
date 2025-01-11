@@ -1,0 +1,10 @@
+/* Responsive design styles */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    .menu {
+        display: flex;
+        flex-direction: column;
+    }
+}
